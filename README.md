@@ -4,7 +4,7 @@
 
 ### 🚀 Passionate Front-End Developer | Building Digital Experiences
 
-<img width="500" alt="Isagi Yoichi - Blue Lock" src="https://media.tenor.com/YOUR_GIF_ID/tenor.gif">
+<img width="500" alt="coding" src="https://i.pinimg.com/originals/db/7e/18/db7e187cf6de5cee4e0ba25da0ea8edb.gif">
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=sohaibjoma&label=Profile%20Views&color=00b3ff&style=for-the-badge" alt="Profile Views" />
