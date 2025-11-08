@@ -250,6 +250,4 @@ graph LR
 
 ⭐️ **Crafted with passion by [Sohaib Joma](https://github.com/sohaibjoma)**
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
 </div>
