@@ -6,175 +6,309 @@
 
 <img width="500" alt="coding" src="https://i.pinimg.com/originals/db/7e/18/db7e187cf6de5cee4e0ba25da0ea8edb.gif">
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sohaibjoma&label=Profile%20Views&color=00b3ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sohaibjoma?label=Followers&style=for-the-badge&color=00b3ff" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/sohaibjoma?label=Total%20Stars&style=for-the-badge&color=00b3ff" alt="GitHub Stars" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sohaibjoma&label=Profile%20Views&color=00d9ff&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sohaibjoma?label=Followers&style=for-the-badge&color=00d9ff&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/sohaibjoma?label=Total%20Stars&style=for-the-badge&color=00d9ff&logo=github" alt="GitHub Stars" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B3FF&center=true&vCenter=true&width=600&lines=Front-End+Developer+%F0%9F%92%BB;Shopify+Expert+%F0%9F%9B%92;React+%26+Next.js+Enthusiast+%E2%9A%A1;Building+Beautiful+Interfaces+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Front-End+Developer;%F0%9F%9B%92+Shopify+Expert;%E2%9A%A1+React+%26+Next.js+Enthusiast;%F0%9F%8E%A8+UI%2FUX+Passionate;%F0%9F%93%9A+Lifelong+Learner;%F0%9F%9A%80+Building+the+Future" alt="Typing SVG"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohaib-joma)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaibjoma@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201276527366)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/sohaibjoma)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/sohaib-joma)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:sohaibjoma@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://wa.me/201276527366)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://github.com/sohaibjoma)
+
+</div>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+
+</div>
 
 ```javascript
-const sohaib = {
+const sohaibJoma = {
+    // 🌍 Location & Identity
     location: "📍 Damietta, Egypt 🇪🇬",
     role: "💼 Front-End Developer",
-    currentFocus: ["Shopify Development", "Next.js Applications", "Full-Stack Solutions"],
-    activeProject: "🏠 onas-home - Real Estate Platform",
-    availability: "✅ Open to exciting collaborations and opportunities",
+    tagline: "Building the web, one pixel at a time! ✨",
     
+    // 🎯 Current Status
+    currentFocus: [
+        "🛒 Shopify Development & Custom Apps",
+        "⚡ Next.js 14+ Applications",
+        "🔧 Full-Stack Solutions"
+    ],
+    activeProject: "🏠 onas-home - Real Estate Platform",
+    availability: "✅ Open for Freelance & Full-time Opportunities",
+    
+    // 💪 Technical Arsenal
     expertise: {
         languages: ["JavaScript", "TypeScript", "Python", "C++"],
-        specialties: ["React Ecosystem", "Vue.js", "Responsive Design", "Performance Optimization"],
-        interests: ["Clean Architecture", "UI/UX Design", "Web Accessibility", "Modern CSS"]
+        specialties: [
+            "⚛️  React Ecosystem & Architecture",
+            "🎨 Modern UI/UX Design",
+            "🚀 Performance Optimization",
+            "📱 Responsive Web Design",
+            "♿ Web Accessibility (a11y)"
+        ],
+        interests: [
+            "Clean Code Architecture",
+            "Design Systems",
+            "Web3 Technologies",
+            "Developer Experience"
+        ]
     },
     
+    // 🛠️ Technology Stack
     technologies: {
         frontend: {
-            frameworks: ["React", "Next.js", "Vue.js", "Nuxt.js"],
-            styling: ["Tailwind CSS", "SASS", "Bootstrap", "Vuetify"],
-            state: ["Redux", "Vuex", "Context API"]
+            core: ["React", "Next.js", "Vue.js", "Nuxt.js"],
+            styling: ["Tailwind CSS", "SASS/SCSS", "Bootstrap", "Vuetify", "Material-UI"],
+            state: ["Redux Toolkit", "Vuex", "Context API", "Zustand"]
         },
         backend: {
-            runtime: ["Node.js", "Express"],
-            databases: ["MongoDB", "Firebase"],
+            runtime: ["Node.js", "Express.js"],
+            databases: ["MongoDB", "Firebase", "Firestore"],
             apis: ["REST", "GraphQL"]
         },
-        tools: ["Git", "Webpack", "Babel", "Jest", "Figma", "Postman", "Linux"]
+        tools: [
+            "Git & GitHub",
+            "VS Code",
+            "Webpack & Vite",
+            "Babel",
+            "Jest & Testing Library",
+            "Figma & Adobe XD",
+            "Postman",
+            "Linux/Unix"
+        ]
     },
     
+    // 🏆 Achievements
     achievements: [
-        "🎯 Built scalable web applications serving thousands of users",
-        "⚡ Optimized performance resulting in 40% faster load times",
-        "🎨 Crafted pixel-perfect interfaces with 99% design accuracy",
-        "🏆 Delivered 20+ successful client projects on time"
+        "🎯 Built scalable web applications serving 10,000+ users",
+        "⚡ Achieved 40% performance improvement through optimization",
+        "🎨 Delivered pixel-perfect interfaces with 99% design accuracy",
+        "🏆 Completed 20+ successful client projects",
+        "📚 Mentored junior developers in modern web technologies"
     ],
     
-    lifePhilosophy: "Building the web, one component at a time! 🚀",
-    funFact: "I develop without a keyboard yet! ⌨️😅",
+    // 🎓 Learning Path
+    currentlyLearning: [
+        "Advanced TypeScript Patterns",
+        "Web3 & Blockchain Development",
+        "System Design & Architecture",
+        "Cloud Technologies (AWS/Azure)"
+    ],
     
-    currentlyLearning: ["Advanced TypeScript", "Web3", "System Design"],
-    askMeAbout: ["React", "Vue", "Next.js", "UI/UX", "Shopify", "Web Performance"]
+    // 💬 Ask Me About
+    askMeAbout: [
+        "React & Next.js",
+        "Vue.js & Nuxt.js",
+        "Shopify Development",
+        "UI/UX Best Practices",
+        "Web Performance",
+        "Frontend Architecture"
+    ],
+    
+    // 🎭 Fun Facts
+    funFacts: [
+        "☕ Powered by coffee and clean code",
+        "⌨️  Still developing without a full keyboard!",
+        "🎮 Gaming + Coding = Perfect Balance",
+        "🌙 Night owl developer 🦉"
+    ],
+    
+    // 💭 Philosophy
+    motto: "Code with passion, design with purpose, deploy with confidence! 🚀"
 };
+
+console.log("Welcome to my GitHub! Let's build something amazing together! 🌟");
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack & Tools
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Technology Stack
+
+</div>
 
 <div align="center">
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt&perline=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,redux&perline=9&theme=dark" />
+</p>
 
-### 🎯 Styling & UI Frameworks
-<img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui&perline=8" />
+### 💅 Styling & UI Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui,figma&perline=8&theme=dark" />
+</p>
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,graphql&perline=8&theme=dark" />
+</p>
 
-### 🛠️ Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,babel,figma,postman,linux&perline=8" />
+### 🛠️ Development Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vite,babel,jest,postman,linux&perline=9&theme=dark" />
+</p>
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,cpp&perline=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp&perline=8&theme=dark" />
+</p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Statistics
-
 <div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sohaibjoma&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Sohaib's GitHub Stats" />
-  
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibjoma&theme=react&hide_border=true&background=0D1117&stroke=0000&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="Sohaib's Streak Stats" />
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
 </div>
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibjoma&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide=jupyter%20notebook" alt="Sohaib's Top Languages" />
-  
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohaibjoma&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00b3ff&line=00b4ff&point=ffffff" alt="Sohaib's Contribution Graph" />
-
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sohaibjoma&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibjoma&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border_radius=10" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohaibjoma&theme=discord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Sohaib's GitHub Trophies" />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibjoma&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide=jupyter%20notebook&border_radius=10" alt="Top Languages" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohaibjoma&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&border_radius=10" alt="Contribution Graph" />
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sohaibjoma&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaibjoma&theme=github_dark" alt="Profile Summary" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Featured Projects
 
-<div align="center">
-  <a href="https://github.com/sohaibjoma/onas-home">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaibjoma&repo=onas-home&theme=react&bg_color=0d1117&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&hide_border=true" />
-  </a>
 </div>
-
-### 🏠 [Onas Home](https://github.com/sohaibjoma/onas-home)
-> A modern, responsive real estate platform delivering seamless property browsing experiences with cutting-edge technology
 
 <div align="center">
 
-**Built With:** `React` • `Next.js` • `Tailwind CSS` • `TypeScript`
+### 🏠 [Onas Home - Real Estate Platform](https://github.com/sohaibjoma/onas-home)
 
-</div>
-
-**✨ Key Features:**
-- 🎯 **Dynamic Listings** - Real-time property updates with instant data synchronization
-- 🔍 **Smart Search** - Intelligent filtering system with multiple parameters
-- 📱 **Mobile-First** - Fully responsive design optimized for all devices
-- ⚡ **Lightning Fast** - Server-side rendering with Next.js for optimal performance
-- 🎨 **Modern UI/UX** - Smooth animations and intuitive user interface
-- 🔒 **Secure & Reliable** - Enterprise-grade authentication and data protection
-- 🗺️ **Interactive Maps** - Location-based property visualization
-- 💾 **Saved Searches** - Personalized user experience with saved preferences
+<a href="https://github.com/sohaibjoma/onas-home">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohaibjoma&repo=onas-home&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&hide_border=true&border_radius=10" />
+</a>
 
 <p align="center">
-  <i>🚀 Building more innovative projects... Stay tuned!</i>
+  <i>✨ A cutting-edge real estate platform revolutionizing property browsing with modern web technologies ✨</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
+
+</div>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      
+#### ✨ Core Features
+- 🎯 **Dynamic Listings** - Real-time property updates
+- 🔍 **Smart Search** - Advanced filtering system
+- 📱 **Mobile-First** - Responsive across all devices
+- ⚡ **Lightning Fast** - Optimized SSR with Next.js
+      
+    </td>
+    <td valign="top" width="50%">
+      
+#### 🚀 Advanced Capabilities
+- 🎨 **Modern UI/UX** - Smooth animations
+- 🔒 **Secure & Reliable** - Enterprise-grade auth
+- 🗺️ **Interactive Maps** - Location visualization
+- 💾 **Personalization** - Saved searches & preferences
+      
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+More+exciting+projects+in+development...;%E2%AD%90+Star+my+repos+to+stay+updated!" alt="Projects Status"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Current Learning Journey
+<div align="center">
+
+## 📚 Current Learning Journey
+
+</div>
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br><strong>TypeScript</strong>
-      <br><sub>Advanced Patterns & Generics</sub>
+    <td align="center" width="25%">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
+      <br><strong>Advanced TypeScript</strong>
+      <br><sub>Generics & Design Patterns</sub>
+      <br>
+      <img src="https://progress-bar.xyz/85?scale=100&title=Progress&width=120&color=00d9ff&suffix=%" />
     </td>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="65" height="65" alt="Next.js" />
       <br><strong>Next.js 14+</strong>
       <br><sub>Server Components & Actions</sub>
+      <br>
+      <img src="https://progress-bar.xyz/78?scale=100&title=Progress&width=120&color=00d9ff&suffix=%" />
     </td>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br><strong>React Advanced</strong>
-      <br><sub>Performance & Optimization</sub>
+    <td align="center" width="25%">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <br><strong>React Performance</strong>
+      <br><sub>Optimization Techniques</sub>
+      <br>
+      <img src="https://progress-bar.xyz/90?scale=100&title=Progress&width=120&color=00d9ff&suffix=%" />
     </td>
-    <td align="center" width="200">
-      <img src="https://www.svgrepo.com/show/374144/typescript.svg" width="48" height="48" alt="Security" />
-      <br><strong>Web Security</strong>
-      <br><sub>Best Practices & OWASP</sub>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="65" height="65" alt="AWS" />
+      <br><strong>Cloud Services</strong>
+      <br><sub>AWS & Deployment</sub>
+      <br>
+      <img src="https://progress-bar.xyz/60?scale=100&title=Progress&width=120&color=00d9ff&suffix=%" />
     </td>
   </tr>
 </table>
@@ -183,88 +317,100 @@ const sohaib = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 What I'm Working On
-
 <div align="center">
 
-```mermaid
-graph LR
-    A[🎯 Current Focus] --> B[Onas Home Platform]
-    A --> C[Shopify Development]
-    A --> D[Full-Stack Learning]
-    B --> E[✨ Feature Development]
-    B --> H[🎨 UI/UX Enhancement]
-    C --> F[🛒 E-commerce Solutions]
-    C --> I[⚙️ Custom Apps]
-    D --> G[🔧 Backend Integration]
-    D --> J[📊 Database Design]
-    
-    style A fill:#00b3ff,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#0d1117,stroke:#00b3ff,stroke-width:2px,color:#00b3ff
-    style C fill:#0d1117,stroke:#00b3ff,stroke-width:2px,color:#00b3ff
-    style D fill:#0d1117,stroke:#00b3ff,stroke-width:2px,color:#00b3ff
-```
+## 💡 What I'm Working On
 
 </div>
 
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#0d1117', 'primaryTextColor':'#00d9ff', 'primaryBorderColor':'#00d9ff', 'lineColor':'#00d9ff', 'secondaryColor':'#161b22', 'tertiaryColor':'#1f2937', 'fontSize':'16px'}}}%%
+
+graph LR
+    A["🎯 Current Focus Areas"] --> B["🏠 Onas Home Platform"]
+    A --> C["🛒 Shopify Solutions"]
+    A --> D["📚 Full-Stack Learning"]
+    
+    B --> E["✨ New Features"]
+    B --> F["🎨 UI/UX Polish"]
+    B --> G["⚡ Performance"]
+    
+    C --> H["🛍️ E-commerce Sites"]
+    C --> I["⚙️ Custom Apps"]
+    C --> J["🎨 Theme Dev"]
+    
+    D --> K["🔧 Backend APIs"]
+    D --> L["📊 Database Design"]
+    D --> M["☁️ Cloud Deploy"]
+    
+    style A fill:#00d9ff,stroke:#fff,stroke-width:3px,color:#000
+    style B fill:#1f2937,stroke:#00d9ff,stroke-width:2px,color:#00d9ff
+    style C fill:#1f2937,stroke:#00d9ff,stroke-width:2px,color:#00d9ff
+    style D fill:#1f2937,stroke:#00d9ff,stroke-width:2px,color:#00d9ff
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+
 ## 🤝 Let's Connect & Collaborate!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B3FF&center=true&vCenter=true&width=600&lines=Open+to+Freelance+Projects+%F0%9F%92%BC;Available+for+Full-time+Opportunities+%F0%9F%9A%80;Excited+about+Collaborations+%F0%9F%A4%9D;Passionate+about+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%92%BC+Open+to+Freelance+Projects;%F0%9F%9A%80+Available+for+Full-time+Opportunities;%F0%9F%A4%9D+Excited+about+Collaborations;%E2%9D%A4%EF%B8%8F+Passionate+about+Open+Source;%F0%9F%8C%9F+Let's+Build+Something+Amazing!" alt="Collaboration"/>
 </p>
 
-<p align="center">
-  <i>💬 I'm always excited to connect with fellow developers, discuss new technologies,<br>and collaborate on innovative projects that make a difference!</i>
+<p>
+  <i>💬 Always excited to connect with fellow developers, discuss cutting-edge technologies,<br>and collaborate on innovative projects that create real impact!</i>
 </p>
 
-<div align="center">
-  
-### 📫 Reach Out To Me
+### 📫 Get In Touch
 
 <p>
   <a href="https://linkedin.com/in/sohaib-joma">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sohaibjoma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/201276527366">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-Let's_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://github.com/sohaibjoma">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-### 🌟 Open To:
+### 🌟 I'm Open To
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/freelance.png" width="40" height="40"/>
-      <br><b>Freelance Projects</b>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/?size=64&id=MHcMYTljfKOr&format=png" width="50" height="50"/>
+      <br><b>💼 Freelance</b>
+      <br><sub>Web Development Projects</sub>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/business.png" width="40" height="40"/>
-      <br><b>Full-time Roles</b>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/?size=64&id=FE2ULUZ6tJRo&format=png" width="50" height="50"/>
+      <br><b>🚀 Full-time</b>
+      <br><sub>Frontend Opportunities</sub>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/handshake.png" width="40" height="40"/>
-      <br><b>Collaborations</b>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/?size=64&id=kmTTNhuMaUDy&format=png" width="50" height="50"/>
+      <br><b>🤝 Collaboration</b>
+      <br><sub>Exciting Projects</sub>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/source-code.png" width="40" height="40"/>
-      <br><b>Open Source</b>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/?size=64&id=AZOZNnY73haj&format=png" width="50" height="50"/>
+      <br><b>❤️ Open Source</b>
+      <br><sub>Contributing to Community</sub>
     </td>
   </tr>
 </table>
 
 ### ⚡ Quick Response Time
 <p>
-  <img src="https://img.shields.io/badge/Response%20Time-Within%2024%20hours-00b3ff?style=for-the-badge" alt="Response Time" />
+  <img src="https://img.shields.io/badge/Average_Response-Within_24_Hours-00d9ff?style=for-the-badge&logo=clockify&logoColor=white" alt="Response Time" />
+  <img src="https://img.shields.io/badge/Availability-Ready_to_Start-00d9ff?style=for-the-badge&logo=statuspage&logoColor=white" alt="Availability" />
 </p>
 
 </div>
@@ -273,28 +419,53 @@ graph LR
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Show some ❤️ by starring repositories you find interesting!
-
-### 📊 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaibjoma&theme=github_dark" alt="Profile Summary"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
+## 💝 Support My Work
 
 <p>
-  <img src="https://img.shields.io/badge/Last%20Updated-November%202025-00b3ff?style=flat-square" alt="Last Updated" />
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Markdown-ff69b4?style=flat-square" alt="Made with Love" />
-  <img src="https://img.shields.io/badge/Maintained-Yes-00b3ff?style=flat-square" alt="Maintained" />
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </p>
 
-### 💖 Thank you for visiting my profile!
+### If you find my work helpful, consider:
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B3FF&center=true&vCenter=true&width=600&lines=Happy+Coding!+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%E2%9C%A8;Keep+Learning%2C+Keep+Growing!+%F0%9F%8C%B1" alt="Footer Typing SVG" />
+  <a href="https://github.com/sohaibjoma">
+    <img src="https://img.shields.io/badge/⭐_Star_My_Repos-Motivates_Me-FFD700?style=for-the-badge" alt="Star Repos"/>
+  </a>
+  <a href="https://github.com/sohaibjoma?tab=followers">
+    <img src="https://img.shields.io/badge/👥_Follow_Me-Stay_Updated-00d9ff?style=for-the-badge" alt="Follow"/>
+  </a>
+  <a href="https://github.com/sohaibjoma?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍_Explore_Projects-Discover_More-00d9ff?style=for-the-badge" alt="Explore"/>
+  </a>
 </p>
 
-⭐️ **Crafted with passion by [Sohaib Joma](https://github.com/sohaibjoma)** ⭐️
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=120&section=footer"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Last_Updated-November_2025-00d9ff?style=flat-square&logo=github" alt="Last Updated" />
+  <img src="https://img.shields.io/badge/Made_with-❤️_and_Markdown-ff69b4?style=flat-square" alt="Made with Love" />
+  <img src="https://img.shields.io/badge/Status-Actively_Maintained-success?style=flat-square&logo=github" alt="Maintained" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License" />
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+%F0%9F%99%8F;Happy+Coding!+%F0%9F%9A%80;Let's+Build+Something+Incredible!+%E2%9C%A8;Keep+Learning%2C+Keep+Growing!+%F0%9F%8C%B1;See+you+in+the+code!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Footer Animation"/>
+</p>
+
+### 💫 "Code is poetry written in logic"
+
+<p>
+  ⭐️ <b>Crafted with passion by <a href="https://github.com/sohaibjoma">Sohaib Joma</a></b> ⭐️
+</p>
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/⬆_Back_to_Top-Click_Here-00d9ff?style=for-the-badge" alt="Back to Top"/></a>
+</p>
 
 </div>
